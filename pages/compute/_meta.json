@@ -1,0 +1,13 @@
+{
+  "Lambda": "1. Lambda",
+  "Fargate": "2. Fargate",
+  "AppRunner": "3. App Runner",
+  "ElasticBeanstalk": "4. Elastic Beanstalk",
+  "EC2": "5. EC2",
+  "ImageBuilder": "6. EC2 Image Builder",
+  "AutoScaling": "7. Auto Scaling",
+  "Batch": "8. Batch",
+  "Linux2023": "9. Linux2023",
+  "Lightsail": "10. EC2 Lightsail"
+}
+

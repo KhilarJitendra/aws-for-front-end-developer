@@ -1,7 +1,9 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "introduction": "AWS Introduction",
+  "compute": "Compute Services",
+  "storage":"Storage Services",
+  "database":"Database Services",
   "about": {
     "title": "About",
     "type": "page"

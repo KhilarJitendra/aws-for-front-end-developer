@@ -1,0 +1,7 @@
+{
+  "s3": "1. Simple Storage",
+  "ebs": "2. EBS",
+  "efs": "3. EFS",
+  "afc": "4. File Cache"
+}
+
