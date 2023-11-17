@@ -7,7 +7,6 @@
   "ImageBuilder": "6. EC2 Image Builder",
   "AutoScaling": "7. Auto Scaling",
   "Batch": "8. Batch",
-  "Linux2023": "9. Linux2023",
-  "Lightsail": "10. EC2 Lightsail"
+  "Lightsail": "9. EC2 Lightsail"
 }
 

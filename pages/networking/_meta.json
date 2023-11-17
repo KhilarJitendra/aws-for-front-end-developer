@@ -3,6 +3,6 @@
   "api": "2. AWS API Gateway",
   "loadbalance": "3. Elastic Load Balancing",
   "cf": "4. Amazon CloudFront",
-  "routes3": "5. Amazon Route 53"
+  "routes3": "5. Amazon Route 53",
+  "zones": "6. Zones"
 }
-

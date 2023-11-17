@@ -5,7 +5,6 @@
   "redshift": "4. Redshift",
   "dms": "5. Database Migration",
   "ec": "6. ElastiCache",
-  "memory": "7. MemoryDB",
-  "doc": "8. DocumentDB"
+  "doc": "7. DocumentDB"
 }
 
